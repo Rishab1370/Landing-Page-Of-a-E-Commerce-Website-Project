@@ -1,0 +1,31 @@
+
+.section{
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: aqua;
+}
+.section img{
+    width: 100%;
+}
+.footer{
+    height: 350px;
+}
+.footer img{
+    height: 100px;
+}
+.smi{
+    list-style-type: none;
+}
+.smi li{
+    display:inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+}
+.card img{
+    height: 200px;
+}
